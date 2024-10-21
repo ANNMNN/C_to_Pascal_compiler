@@ -1,2 +1,10 @@
-# oldtry_compiler
-https://docs.google.com/spreadsheets/d/10OidulBQAECiTD7RFNi0izwFeH__oRI3pcvavpjBVM8/edit#gid=0
+# C++ to Pascal compiler - old version
+includes:
+C++ lexer (Regular expression)
+C++ lexer (lex)
+Parser (Recursive descent)
+Parser (yacc)
+Semantic analyzer
+Tree
+Code generator
+Tests
